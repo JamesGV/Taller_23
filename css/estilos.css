@@ -747,14 +747,17 @@
 }
 #cards{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     margin-bottom: 50px;
     margin-top: 20px;
     justify-content: center;
+    padding-bottom: 20px;
 }
 .card-embebido{
     margin-bottom: 20px;
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 10px;
+    margin: auto;
+    padding-bottom: 20px;
 }
 }
